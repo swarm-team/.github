@@ -13,4 +13,5 @@ Generally, these pages will be vulnerable for two reasons.
 Making exploits using the privileges of these pages. Our main goal is to bypass some sorts of restrictions on enrolled Chromebooks.
 
 ### What are our projects?
-- unfinished
+- Flock - a custom build tool that compiles Swarm into a Web Builder that can be used to include only the pieces you need
+- other stuff
